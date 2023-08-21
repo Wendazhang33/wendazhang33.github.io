@@ -8,7 +8,6 @@ header:
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-#About me
 
 Hello! I'm a postdoctoral researcher at Princeton University (https://cimes.princeton.edu/),
 where I work on the parameterization of ocean mesoscale eddies in climate models. I am a member of the [Ocean Transport and Eddy Energy Climate Process Team] 
