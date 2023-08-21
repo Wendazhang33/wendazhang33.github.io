@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenda Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/Photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "physical oceanographer" #"I am an **amazing** person."
   location         : "Princeton, NJ"
   email            :
