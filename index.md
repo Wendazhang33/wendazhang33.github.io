@@ -4,14 +4,13 @@ layout: single
 author_profile: true
 excerpt: 'physical oceanographer'
 header:
-  overlay_image: assets/images/swirl.jpeg
+  overlay_image: assets/images/landscape.jpeg
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 
-Hello! I'm a postdoctoral researcher at Princeton University (https://cimes.princeton.edu/),
-where I work on the parameterization of ocean mesoscale eddies in climate models. I am a member of the [Ocean Transport and Eddy Energy Climate Process Team] 
-(https://ocean-eddy-cpt.github.io/). 
+Hello! I'm a postdoctoral researcher at [Princeton University] (https://cimes.princeton.edu/),
+where I work on the parameterization of ocean mesoscale eddies in climate models. I am a member of the [Ocean Transport and Eddy Energy Climate Process Team](https://ocean-eddy-cpt.github.io/). 
 Prior to this position, I completed my Ph.D. at School of Marine and 
 Atmospheric Sciences, Stony Brook University.
 
