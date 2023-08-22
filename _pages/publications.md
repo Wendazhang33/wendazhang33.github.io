@@ -1,5 +1,5 @@
 ---
-layout:single
+layout: single
 title: "Publications"
 permalink: /publications/
 header:
