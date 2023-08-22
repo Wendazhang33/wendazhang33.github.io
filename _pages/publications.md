@@ -3,7 +3,7 @@ layout: single
 title: "Publications"
 permalink: /publications/
 header:
-  image: /assets/images/banner.jpeg
+  image: /assets/images/swirl.jpeg
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=qZRHaLQAAAAJ&hl=en)
