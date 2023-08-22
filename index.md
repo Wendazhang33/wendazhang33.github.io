@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 excerpt: 'physical oceanographer'
 header:
-  overlay_image: assets/images/wave.jpeg
+  overlay_image: assets/images/Photo2.JPG
 classes: wide
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
