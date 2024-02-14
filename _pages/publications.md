@@ -9,14 +9,14 @@ header:
 [Google Scholar Profile](https://scholar.google.com/citations?user=qZRHaLQAAAAJ&hl=en)
 
 ### In Progress
-[Role of surface potential vorticity in the vertical structure of mesoscale 
-eddies](https://essopenarchive.org/users/558735/articles/670092-the-role-of-surface-potential-vorticity-in-the-vertical-structure-of-mesoscale) 
-**Wenda Zhang**, Stephen M. Griffies, Robert W. Hallberg,  Yi-Hung Kuo and Christopher L. P. Wolfe (2023)
-Submitted to *Journal of Physical Oceanography*    
+[The role of surface potential vorticity in the vertical structure of mesoscale 
+eddies in wind-driven ocean circulations](https://essopenarchive.org/users/558735/articles/670092-the-role-of-surface-potential-vorticity-in-the-vertical-structure-of-mesoscale) 
+**Wenda Zhang**, Stephen M. Griffies, Robert W. Hallberg,  Yi-Hung Kuo and Christopher L. P. Wolfe (2024)
+In review on *Journal of Physical Oceanography*    
 
 [Inferring tracer diffusivity from coherent mesoscale eddies](https://essopenarchive.org/doi/full/10.22541/essoar.169531094.41280900) 
-**Wenda Zhang** and Christopher L. P. Wolfe (2023)
-Submitted to *Journal of Advances in Modeling Earth Systems* 
+**Wenda Zhang** and Christopher L. P. Wolfe (2024)
+In review on *Journal of Advances in Modeling Earth Systems* 
 
 
 ### Peer Reviewed
