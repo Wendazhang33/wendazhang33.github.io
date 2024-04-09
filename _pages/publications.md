@@ -19,7 +19,7 @@ eddies in wind-driven ocean circulations](https://doi.org/10.1175/JPO-D-23-0203.
 **Wenda Zhang**, Stephen M. Griffies, Robert W. Hallberg,  Yi-Hung Kuo and Christopher L. P. Wolfe
 *Journal of Physical Oceanography (2024)*
 
-[Inferring tracer diffusivity from coherent mesoscale eddies](https://essopenarchive.org/doi/full/10.22541/essoar.169531094.41280900)
+[Inferring tracer diffusivity from coherent mesoscale eddies](https://doi.org/10.1029/2023MS004004)
 **Wenda Zhang** and Christopher L. P. Wolfe
 *Journal of Advances in Modeling Earth Systems (2024)*
 
