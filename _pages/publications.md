@@ -8,7 +8,11 @@ header:
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=qZRHaLQAAAAJ&hl=en)
 
-### In Preparation
+### In Progress
+[Vertical structure of baroclinic instability in a three-layer quasi-geostrophic model over a sloping bottom] 
+M. Lobo, S.M. Griffies, and **W. Zhang**, 2024:
+Minor revision on *Journal of Physical Oceanography*
+
 [A scale-dependent vertical structure for mesoscale energy backscatter parameterizations]
 **Wenda Zhang**, A. Adcroft, E. Yankovsky, S.M. Griffies, R.W. Hallberg, 2024:  
 In preparation for *Journal of Advances in Modeling Earth Systems* 
