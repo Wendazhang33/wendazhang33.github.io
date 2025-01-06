@@ -9,15 +9,28 @@ header:
 [Google Scholar Profile](https://scholar.google.com/citations?user=qZRHaLQAAAAJ&hl=en)
 
 ### In Progress
-[Vertical structure of baroclinic instability in a three-layer quasi-geostrophic model over a sloping bottom] 
-M. Lobo, S.M. Griffies, and **W. Zhang**, 2024:
-Minor revision on *Journal of Physical Oceanography*
+
+[The GFDL-CM4X climate model hierarchy, Part I: case studies]
+Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C. Y., Drake, H. F., ..., **Zhang, W.**, Zhao, M., 2025: 
+Submitted to *Journal of Advances in Modeling Earth Systems*
+
+[The GFDL-CM4X climate model hierarchy, Part II: case studies]
+Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C. Y., Drake, H. F., ..., **Zhang, W.**, Zhao, M., 2025: 
+Submitted to *Journal of Advances in Modeling Earth Systems*
+
+[Mixed transitional layer instability: A mechanism for deep-penetrating submesoscale processes in the subtropical upper ocean]
+Zhang, Z., J. Chang, X. Zhang, and **W. Zhang**, 2025:
+In preparation for *Journal of Physical Oceanography*
 
 [A scale-dependent vertical structure for mesoscale energy backscatter parameterizations]
 **Wenda Zhang**, A. Adcroft, E. Yankovsky, S.M. Griffies, R.W. Hallberg, 2024:  
 In preparation for *Journal of Advances in Modeling Earth Systems* 
 
 ### Peer Reviewed
+[Vertical structure of baroclinic instability in a three-layer quasi-geostrophic model over a sloping bottom] 
+M. Lobo, S.M. Griffies, and **W. Zhang**
+*Journal of Physical Oceanography (2025)*
+
 [The role of surface potential vorticity in the vertical structure of mesoscale
 eddies in wind-driven ocean circulations](https://doi.org/10.1175/JPO-D-23-0203.1)
 **Wenda Zhang**, Stephen M. Griffies, Robert W. Hallberg,  Yi-Hung Kuo and Christopher L. P. Wolfe
