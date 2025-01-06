@@ -20,7 +20,7 @@ Submitted to *Journal of Advances in Modeling Earth Systems*
 
 [Mixed transitional layer instability: A mechanism for deep-penetrating submesoscale processes in the subtropical upper ocean]
 Zhang, Z., J. Chang, X. Zhang, and **W. Zhang**, 2025:
-In preparation for *Journal of Physical Oceanography*
+Submitted to *Journal of Physical Oceanography*
 
 [A scale-dependent vertical structure for mesoscale energy backscatter parameterizations]
 **Wenda Zhang**, A. Adcroft, E. Yankovsky, S.M. Griffies, R.W. Hallberg, 2024:  
