@@ -10,7 +10,7 @@ header:
 
 ### In Progress
 
-[The GFDL-CM4X climate model hierarchy, Part I: case studies]
+[The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties]
 Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C. Y., Drake, H. F., ..., **Zhang, W.**, Zhao, M., 2025: 
 Submitted to *Journal of Advances in Modeling Earth Systems*
 
