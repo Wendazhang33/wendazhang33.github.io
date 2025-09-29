@@ -20,9 +20,9 @@ Wang, S., **Zhang W.**, Kido S., Sasaki H., Qiu B., Guo X., 2025:
 
 [Implementation of a new parameterization of submesoscale vertical flux in an eddy-resolving model in the North Pacific]
 Feng, Z., Zhang Z., Zhang J., **Zhang W.**, Yuan M., Jing Z., Zhao W., Tian J., 2025:
-*Submitted* to *Ocean Modelling*
+*Under revision* on *Ocean Modelling*
 
-[Parameterizing isopycnal mixing via kinetic energy backscatter in an eddy-permitting ocean model]
+[Parameterizing isopycnal mixing via kinetic energy backscatter in an eddy-permitting ocean model](https://essopenarchive.org/doi/full/10.22541/essoar.175805328.85239601/v1)
 Pudig, M., **Zhang W.**, Smith K.S., Zanna L., 2025:
 *Submitted* to *Journal of Advances in Modeling Earth Systems*
 
